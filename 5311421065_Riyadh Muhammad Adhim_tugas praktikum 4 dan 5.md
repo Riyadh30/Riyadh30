@@ -2,7 +2,7 @@ Nama  : Riyadh Muhammad Adhim
 
 NIM  : 5311421065
 
-TUGAS TEKNIK PENCARIAN BLIND SEARCH
+TUGAS PRAKTIKUM 4 TEKNIK PENCARIAN BLIND SEARCH
 
 1. Tentukan bagaimana algoritma BFS di atas dapat menentukan node ke 8, 6, dan 7.
    
@@ -118,3 +118,17 @@ public static void main(String[] args) [
 ]
 ```
 Untuk menemukan node C menggunakan algoritma BFS, kita dapat menjalankan method bfs dengan parameter node A sebagai node awal. Algoritma BFS akan menjelajahi semua node pada level yang sama terlebih dahulu sebelum melanjutkan ke level selanjutnya. Dalam kasus ini, node C berada pada level kedua, sehingga algoritma BFS akan menemukan node C setelah menjelajahi node B dan node C.
+
+
+
+TUGAS PRAKTIKUM 5 TEKNIK HEURISTIC SEARCH
+
+1. Pelajari class EightPuzzleSearch, EightPuzzleSpace, dan Node.
+
+   Class EightPuzzleSearch: kelas ini berfungsi untuk mendeskripsikan algoritma heuristic, menghitung cost heuristic, mencetak alur (path) dari root ke suatu node, dan menentukan node terbaik berdasarkan nilai dari fungsi heuristic.
+   
+   Class EightPuzzleSpace: kelas ini digunakan untuk menentukan initial dan goal state serta mendapatkan path dari root ke node tertentu.
+   
+   Class Node: kelas ini memasukkan semua node ke dalam sebuah tree. Class ini juga dapat menghasilkan alur (path) dari root ke node tertentu yang diinginkan.
+
+2. 
