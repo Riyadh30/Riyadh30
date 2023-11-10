@@ -55,3 +55,9 @@ Melunis ulang dan mempelajari beberapa code pada file tugas kemudian mengubah be
   `penjelasan`
 
   Pada kelas GameMain, konstruktor menginisialisasi elemen-elemen GUI, seperti dimensi papan permainan, status bar, dan mendefinisikan perilaku mouse-click untuk memainkan permainan. Metode initGame digunakan untuk menginisialisasi kondisi awal permainan, sementara metode updateGame mengubah status permainan berdasarkan langkah pemain terakhir. Metode paintComponent digunakan untuk menggambar elemen-elemen GUI dan memperbarui status bar sesuai dengan kondisi permainan. Di dalam metode main, program dijalankan dalam event-dispatching thread untuk keamanan thread. Sebuah objek JFrame dibuat, diisi dengan panel GameMain, dan ditampilkan kepada pengguna sebagai antarmuka grafis permainan Tic-Tac-Toe.
+
+# Hasil
+![image](https://github.com/Riyadh30/Riyadh30/assets/149092819/b27faff7-e0b9-427a-a86b-0c0822a69c94)
+
+![image](https://github.com/Riyadh30/Riyadh30/assets/149092819/c90a35a2-6d3a-428d-a857-04bfa585383f)
+
